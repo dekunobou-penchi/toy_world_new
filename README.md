@@ -16,7 +16,7 @@
 
 | 領域 | 使用技術 |
 |---|---|
-| サーバ | TypeScript, Node.js, Express, ws（WebSocket） |
+| サーバ | TypeScript, Node.js, Express, WebSocket |
 | フロントエンド | TypeScript, React, Vite, React Router |
 | 状態管理 | インメモリ（サーバ）, React Context（フロント） |
 | 永続化 | JSON（設定）, JSONL（ログ） |
